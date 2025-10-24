@@ -1,0 +1,3 @@
+Fala meu cupinxa!
+Testando o Sistema de Arquivos com o módulo fs...
+Se apareceu essa mensagem é porque deu boa.
